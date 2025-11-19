@@ -6,7 +6,7 @@ A React app showcasing a restaurant menu using reusable components.
 - MenuItem: Displays menu items with vegetarian badge.
 
 ## Links
-- GitHub Repository: (Add your link)
+- GitHub Repository: https://github.com/asyathzehwa/react-menu-app.git
 - Live Website: (Add your link)
 
 ## Run Locally
