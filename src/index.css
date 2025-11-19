@@ -1,0 +1,99 @@
+/* Overall Page */
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+  color: #000000; /* Black text */
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 25px 10px;
+  background: #f2f2f2;
+  border-bottom: 2px solid #ddd;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+  color: #000; /* Black */
+}
+
+header p {
+  font-size: 16px;
+  margin-top: 5px;
+  color: #444; /* Dark grey */
+}
+
+/* Category Heading */
+h2 {
+  margin-left: 20px;
+  margin-top: 30px;
+  color: #000;
+  font-size: 26px;
+}
+
+/* Menu Grid Layout */
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Individual Menu Item Card */
+.menu-card {
+  background: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 18px;
+  transition: 0.3s;
+}
+
+.menu-card:hover {
+  background: #f0f0f0;
+  transform: scale(1.02);
+}
+
+/* Card Text */
+.menu-card h3 {
+  margin-top: 0;
+  font-size: 20px;
+  color: #000;
+}
+
+.menu-card p {
+  margin: 6px 0;
+  color: #333;
+}
+
+/* Vegetarian Badge */
+.veg-badge {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  padding: 5px 12px;
+  background: #00b300;
+  color: white;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
+/* Info Section */
+section {
+  padding: 20px;
+  margin-left: 20px;
+  color: #000;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #f2f2f2;
+  margin-top: 20px;
+  border-top: 2px solid #ddd;
+  color: #000;
+}
