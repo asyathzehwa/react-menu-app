@@ -7,7 +7,7 @@ A React app showcasing a restaurant menu using reusable components.
 
 ## Links
 - GitHub Repository: https://github.com/asyathzehwa/react-menu-app.git
-- Live Website: (Add your link)
+- Live Website: https://shimmering-chebakia-0ef9ca.netlify.app/ 
 
 ## Run Locally
 1. Clone the repo
